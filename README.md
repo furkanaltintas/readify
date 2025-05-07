@@ -1,6 +1,8 @@
 # 📖 Readify Next.js
 
 <hr>
+https://readify-liart.vercel.app/
+<hr>
 
 ## 📸 Ekran Görüntüleri
 
